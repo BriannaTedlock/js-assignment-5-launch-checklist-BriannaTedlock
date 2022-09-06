@@ -54,7 +54,7 @@ function validateInput(str) {
    updateNotReady();
   }
  
-  document.getElementById("faultyItems").style.visibility = "visible";
+  document.getElementById("faultyItems").style.visibility = "hidden";
  }
  
  
